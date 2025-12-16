@@ -1,0 +1,46 @@
+---
+title: "Personal"
+image: ABasin.JPG
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 15em
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/maggie_rouin?igsh=eHJzZTZkcWR1NnZj&utm_source=qr
+    - text: Email
+      href: mailto:m.rouin@gmail.com
+---
+
+::: {#hero-heading}
+## Hobbies
+
+Maggie is typically on the move and can be found trail running and hiking to alpine lakes or spending long days cycling and climbing. In winter, she is usually on a snowboard, relaxing with yoga, or training for a summer race. When she's not outdoors she loves baking and experimenting in the kitchen to share something homemade with others. Her dog, Kaya, can be found by her side on the trails and at her feet to catch some food while she's baking.
+:::
+
+------------------------------------------------------------------------
+
+<div>
+
+![Kaya](Kaya.JPG)
+
+</div>
+
+<div>
+
+![Sheep Mountain 50K](SheepMtn.heic)
+
+</div>
+
+<div>
+
+![Splitboarding](Backcountry.HEIC)
+
+</div>
+
+<div>
+
+![Brainard Lake](www/Brainard.heic)
+
+</div>

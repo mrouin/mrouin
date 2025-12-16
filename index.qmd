@@ -1,11 +1,37 @@
 ---
-title: "mrouin"
+title: "Maggie Rouin"
+image: Profile.jpeg
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/maggie-rouin
+    - icon: github
+      text: Github
+      href: https://github.com/mrouin
+    - text: Email
+      href: mailto:marguerite.rouin@colostate.edu
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
+## Background
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Maggie Rouin is a first year graduate student in the Professional Science Masters program at Colorado State University studying Water Resources. Prior to attending CSU, she worked in environmental consulting for four years in water resources and renewable resources. Maggie hopes to work in water quality research following the completion of her masters degree. When she's not studying or working, Maggie spends most of her time in nature either trail running, snowboarding, or cycling. She is also an avid baker and loves to spoil her dog, Kaya.
 
-```{r}
-1 + 1
-```
+## Education
+
+Colorado State University \| Fort Collins, CO \| M.S. in Water Resources \| August 2025 - December 2026
+
+Pennsylvania State University \| State College, PA \| B.S. in Environmental Resource Management \| August 2017 - May 2021
+
+## Experience
+
+SWCA Environmental Consultants \| Environmental Scientist \| June 2022 - May 2025
+
+CMS Environmental Consultants \| Environmental Analyst \| November 2021 - June 2022
+:::
+
+------------------------------------------------------------------------

@@ -1,0 +1,125 @@
+---
+title: "Professional"
+image: Ruby.HEIC
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/maggie-rouin
+    - icon: github
+      text: Github
+      href: https://github.com/mrouin
+    - text: Email
+      href: mailto:marguerite.rouin@colostate.edu
+---
+
+::: {#hero-heading}
+## Education
+
+**Colorado State University** \| Fort Collins, CO
+
+-   M.S. in Water Resources \| August 2025 - December 2026
+
+**Pennsylvania State University** \| State College, PA
+
+-   B.S. in Environmental Resource Management \| August 2017 - May 2021
+
+## Industry Experience
+
+**SWCA Environmental Consultants** \| Environmental Scientist \| June 2022 - May 2025
+
+-   Leads and assists with project management tasks, such as writing proposals, budgeting, client coordination, and managing technical tasks for various projects, including water resources and renewables projects. 
+
+<!-- -->
+
+-   Writes environmental assessment reports which detail the findings of field surveys and convey pertinent environmental regulations to our clients. 
+
+<!-- -->
+
+-   Analyzes and QA/QC field data from site visits to interpret in environmental assessment reports. 
+
+<!-- -->
+
+-   Conducts site assessment surveys to identify sensitive environmental resources on future project sites, specifically aquatic resources, migratory birds, and mammals. 
+
+**CMS Environmental Consultants** \| Environmental Analyst \| November 2021 - June 2022
+
+-   Routinely inspected erosion and sediment control measures at 40-50 commercial, residential, and industrial construction projects in the Denver Metro area. 
+
+<!-- -->
+
+-   Wrote inspection reports following each site visit detailing site findings which were then used to correct potential pollutant discharges off site. 
+
+<!-- -->
+
+-   Routinely communicated with clients and regulators to relay inspection findings and discuss solutions for pollution prevention on client’s sites. 
+
+-   Reviewed and audited stormwater pollution prevention plans (SWPPPs) for each client’s site to ensure that their plans were compliant with COR400000 and Denver city regulations. 
+
+**Penn State Sustainable Ag, Food, and Environmental Science Institute** \| Intern \| June – September 2021 
+
+-   Analyzed GIS mapping data and conducted site visits, with the County Conservation District, of a local watershed for the Chesapeake Bay Foundation through ArcGIS to identify current and future sites for BMP implementation. 
+
+<!-- -->
+
+-   Responsible for creating, leading, and obtaining partners for two stakeholder education workshops, one for the Homeowner’s Guide to Stormwater Management and another for a stream health citizen science tool, FISH. 
+
+-   Conducted water and fish samplings around Lancaster watersheds to analyze water quality and stream health following BMP implementation. 
+
+**Penn State Ag and Environment Center \|** Intern \| January - May 2021 
+
+-   Demonstrated analytical skills by conducting a literary review on the effectiveness of stream, wetland, and floodplain best management practices (BMP), compiled summaries, and presented results. 
+
+<!-- -->
+
+-   Responsible for analyzing GIS mapping data of three local watersheds through Google Earth Pro and ArcGIS to identify current and future sites for BMP implementation. 
+
+<!-- -->
+
+-   Individually conducted site assessments to check the viability of future BMP locations from GIS data. 
+
+**U.S. Environmental Protection Agency** \| Office of Compliance Intern \| June - August 2019 
+
+-   Input, tracked, and analyzed trends in excel with data from the ten EPA Region’s National Pollutant Discharge Elimination System (NPDES) Compliance Monitoring Strategy (CMS) reports, compiled results, and presented to the Office of Compliance Water Branch. 
+
+<!-- -->
+
+-   Collaborated with two team members to learn wiki markup code to input training documents for EPA’s Stormwater Inspector Training Library webpage for stakeholder use. 
+
+-   Redesigned the EPA’s Drinking Water Compliance Resource Center SharePoint site for consistency. 
+
+**Nuclear Energy Institute (NEI)** \| Governmental Affairs Intern \| June - August 2018 
+
+-   Attended Congressional committee hearings pertinent to NEI and composed hearing reports. 
+
+<!-- -->
+
+-   Organized the company’s Political Action Committee (PAC) database. 
+
+<!-- -->
+
+-   Collaborated with the Governmental Affairs division to complete routine office tasks. 
+
+## **Academic Experience**
+
+**Penn State Department of Plant Science** \| Research Assistant \| September 2018 - January 2019 
+
+-   Scanned 150-200 Phaseolus roots to discover stress tolerance mechanisms. 
+
+<!-- -->
+
+-   Organized and labeled the scanned roots according to phenotype and phosphorous levels. 
+
+**Penn State Department of Biology** \| Assistant Lab Teaching Assistant \| August - December 2019 
+
+-   Assisted 40 students and 2 TAs with lab set up, procedures, and instruction for BIO 220W Lab. 
+
+<!-- -->
+
+-   Attended weekly meetings to discuss upcoming lab content and assignments. 
+:::
+
+------------------------------------------------------------------------

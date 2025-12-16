@@ -8,12 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Professional.qmd
+      - Personal.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - litera
       - brand
     css: styles.css
     toc: true
