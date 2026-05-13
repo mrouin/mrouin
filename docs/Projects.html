@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -111,7 +111,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#ess-523c-labs" id="toc-ess-523c-labs" class="nav-link active" data-scroll-target="#ess-523c-labs">ESS 523C Labs</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <div class="quarto-about-trestles">
   <div class="about-entity">
@@ -126,8 +133,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
+
 <div id="hero-heading">
-<p><strong>ESS 523C Labs</strong></p>
+<section id="ess-523c-labs" class="level2">
+<h2 data-anchor-id="ess-523c-labs">ESS 523C Labs</h2>
 <p><a href="https://mrouin.github.io/csu-523c/lab-01-clean.html"><strong>Lab 1</strong></a> <strong>- Exploring Streamflow Across the Colorado River Basin</strong></p>
 <p>Retrieved 44 years of daily streamflow directly from the USGS NWIS API using dataRetrieval. Joined gauge metadata using relational keys — and verified every join. Normalized by drainage area to enable fair comparisons across the basin. Detected low-flow threshold exceedances using rolling statistics for operational drought monitoring. Aggregated by water year and season the natural temporal units of western hydrology. Visualized basin-wide trends with a standardized anomaly heatmap and a flow-weighted spatial center analysis. Modeled the upstream-downstream relationship at the Compact’s accounting point. Evaluated model assumptions and identified the outlier year the model couldn’t predict</p>
 <p><a href="https://mrouin.github.io/csu-523c/lab-02-clean.html"><strong>Lab 2</strong></a> <strong>- The Geometry of Place: Spatial Analysis Skills for Environmental Science</strong></p>
@@ -138,7 +147,9 @@ ul.task-list li input[type="checkbox"] {
 <p>Using remote sensing data we Identify an area of interest (AOI): identified the temporal range of interest and the relevant images, downloaded the images, analyzed the products.</p>
 <p><a href="https://mrouin.github.io/csu-523c/lab-05-clean.html">Lab 5</a> <strong>- Machine Learning in Hydrology</strong></p>
 <p>In this lab we explored predictive modeling in hydrology using the <code>tidymodels</code> framework and the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) dataset. Specified a <code>recipe</code>, dropped it into a <code>workflow</code>, and compared multiple models via <code>workflow_set</code> against cross-validated resamples. Extracted <strong>variable importance</strong> and interpreted predictor ranks through the <em>geographic-proxy</em> lens. Evaluated with <strong>spatial cross-validation</strong> and reported the honest gap between random and spatial CV. <strong>Tuned</strong> hyperparameters with <code>tune_grid()</code> and a named grid, then finalized with <code>last_fit().</code></p>
+</section>
 </div>
+<hr>
 
 
 </main></div>
