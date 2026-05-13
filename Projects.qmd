@@ -5,11 +5,6 @@ about:
   template: trestles
   image-shape: rectangle
   image-width: 20em
-format:
-  pdf:
-    include-in-header:
-      text: |
-        \usepackage{pdfpages}
 ---
 
 ::: {#hero-heading}
@@ -37,7 +32,7 @@ In this lab we explored predictive modeling in hydrology using the `tidymodels` 
 
 ## Cache la Poudre Stream Metabolism
 
-[Presentation](GitHub/mrouin/WR696 - Project Presentation.pdf)
+[Presentation](/GitHub/mrouin/WR696 - Project Presentation.pdf)
 
 Streams play an important role in communities, providing a source of drinking water, infrastructure, recreation, and ecosystems for aquatic life. Within Larimer County, Colorado, the Cache La Poudre River primarily serves as a source for drinking water, agriculture, and recreation for approximately 400,000 members within the watershed (CPRW 2026). Stream health within this watershed is affected by everyday impacts, such as the agricultural and urban land uses, and by major disturbance events such as the Cameron Peak Fire in 2020. These land use and disturbance events drive nutrient and sediment loading into the stream which can threaten the health of the stream and its ecosystem. To understand these impacts, stream metabolism can be used to evaluate the physical, biological, and chemical conditions of a stream and therefore is a strong indicator of stream health (Reed et al. 2021).
 
