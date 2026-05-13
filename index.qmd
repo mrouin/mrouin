@@ -19,7 +19,7 @@ about:
 ::: {#hero-heading}
 ## Background
 
-Maggie Rouin is a first year graduate student in the Professional Science Masters program at Colorado State University studying Water Resources. Prior to attending CSU, she worked in environmental consulting for four years in water resources and renewable resources. Maggie hopes to work in water quality research following the completion of her masters degree. When she's not studying or working, Maggie spends most of her time in nature either trail running, snowboarding, or cycling. She is also an avid baker and loves to spoil her dog, Kaya.
+Maggie Rouin is a first year graduate student in the Professional Science Masters program at Colorado State University studying Water Resources. She is currently working in the ROSSyndicate Lab as a Watershed Science and Water Quality Technician. Prior to attending CSU, she worked in environmental consulting for four years in water resources and renewable resources. Maggie hopes to work in water quality research following the completion of her masters degree. When she's not studying or working, Maggie spends most of her time in nature either trail running, snowboarding, or cycling.
 
 ## Education
 
@@ -28,6 +28,8 @@ Colorado State University \| Fort Collins, CO \| M.S. in Water Resources \| Augu
 Pennsylvania State University \| State College, PA \| B.S. in Environmental Resource Management \| August 2017 - May 2021
 
 ## Experience
+
+ROSSyndicate Lab \| Watershed Science and Water Quality Technician  \| May 2026 - Present
 
 SWCA Environmental Consultants \| Environmental Scientist \| June 2022 - May 2025
 

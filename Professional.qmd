@@ -14,6 +14,8 @@ about:
       href: https://github.com/mrouin
     - text: Email
       href: mailto:marguerite.rouin@colostate.edu
+    - text: Resume
+      href: RouinResume2026.pdf
 ---
 
 ::: {#hero-heading}
@@ -28,6 +30,18 @@ about:
 -   B.S. in Environmental Resource Management \| August 2017 - May 2021
 
 ## Industry Experience
+
+**ROSSyndicate Lab** \| Watershed Science and Water Quality Technician \| May 2026 - Present
+
+-   Collects and prepares water quality field samples. 
+
+<!-- -->
+
+-   Installs, operates, and maintains in-situ sensors and data loggers. 
+
+<!-- -->
+
+-   Reviews and cleans historic water quality data in R. 
 
 **SWCA Environmental Consultants** \| Environmental Scientist \| June 2022 - May 2025
 

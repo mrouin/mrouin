@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - Professional.qmd
-      - Personal.qmd
+      - Coursework.qmd
 
 format:
   html:
